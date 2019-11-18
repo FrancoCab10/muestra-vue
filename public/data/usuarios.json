@@ -1,0 +1,72 @@
+[
+  {
+    "usuario": "gomezf",
+    "apellido": "Gomez",
+    "nombre": "Franco",
+    "email": "gomezf@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "alvarezj",
+    "apellido": "Álvarez",
+    "nombre": "Javier",
+    "email": "alvarezj@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "conrradoa",
+    "apellido": "Conrrado",
+    "nombre": "Alejandro",
+    "email": "conrradoa@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "franco",
+    "apellido": "Gomez",
+    "nombre": "Franco",
+    "email": "franco@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "ballesterl",
+    "apellido": "Ballester",
+    "nombre": "Luís",
+    "email": "ballesterl@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "baghinj",
+    "apellido": "Baghin",
+    "nombre": "Juan",
+    "email": "baghinj@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "basualdol",
+    "apellido": "Basualdo",
+    "nombre": "Luz",
+    "email": "basualdol@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "franco",
+    "apellido": "Gomez",
+    "nombre": "Franco",
+    "email": "franco@sinpecor.org.ar",
+    "estado": "Inactivo"
+  },
+  {
+    "usuario": "masseronia",
+    "apellido": "Masseroni",
+    "nombre": "Anahi",
+    "email": "masseronia@sinpecor.org.ar",
+    "estado": "Activo"
+  },
+  {
+    "usuario": "roldanm",
+    "apellido": "Roldan",
+    "nombre": "Matías",
+    "email": "roldanm@sinpecor.org.ar",
+    "estado": "Inactivo"
+  }
+]

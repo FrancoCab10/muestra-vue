@@ -1,0 +1,46 @@
+#menu {
+  .fondo-menu {
+    background: #fff;
+  }
+  .navegacion {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+    .item-navegacion a {
+      display: block;
+      padding: 5px 10px;
+      text-decoration: none;
+      width: 256px;
+      height: 40px;
+      overflow-x:hidden; 
+      color: rgba(0, 0, 0, 0.8);
+
+      .icono {
+        $icon-size: 20px;
+        font-size: $icon-size;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        margin-right: 10px;
+        float: left;
+      }
+      .texto {
+        display: flex;
+        height: 30px;
+        align-items: center;
+        font-weight: 600;
+        font-size: .7rem;
+        text-transform: uppercase;
+        float: left;
+      }
+
+      &.active {
+        color: rgb(0, 138, 230);
+        background:rgba(#57caff, 0.2);
+      }
+    }
+
+  }
+}

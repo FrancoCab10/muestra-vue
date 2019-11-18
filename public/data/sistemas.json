@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Gestión de Padrones 2.0",
+    "bg": "to bottom right, #005c97, #363795",
+    "color": "white",
+    "icono": "users"
+  },
+  {
+    "nombre": "Alojamientos",
+    "bg": "to bottom right, #ce124b, #7f050f",
+    "color": "white",
+    "icono": "hotel"
+  },
+  {
+    "nombre": "Préstamos para Vivienda",
+    "bg": "to bottom right, #4ea7b1, #0a5c55",
+    "color": "white",
+    "icono": "home-lg"
+  },
+  {
+    "nombre": "Historia Sindical",
+    "bg": "to bottom right, #537895, #09203f",
+    "color": "white",
+    "icono": "address-book"
+  },
+  {
+    "nombre": "Sueldos",
+    "bg": "to bottom right, #4eb1ae, #077e52",
+    "color": "white",
+    "icono": "file-invoice-dollar"
+  },
+  {
+    "nombre": "Subsidios Jubilados",
+    "bg": "to bottom right, #9b23ea, #5f72bd",
+    "color": "white",
+    "icono": "money-check-edit-alt"
+  },
+  {
+    "nombre": "Préstamos a Personal",
+    "bg": "to bottom right, #3ab650, #0d4c0b",
+    "color": "white",
+    "icono": "envelope-open-dollar"
+  },
+  {
+    "nombre": "Torneo",
+    "bg": "to bottom right, #141e30, #243b55",
+    "color": "white",
+    "icono": "futbol"
+  },
+  {
+    "nombre": "Cursos UNC",
+    "bg": "to bottom right, #4173c3, #002d75",
+    "color": "white",
+    "icono": "graduation-cap"
+  },
+  {
+    "nombre": "Cuota Sindical",
+    "bg": "to bottom right, #df9c20, #d72b09",
+    "color": "white",
+    "icono": "hand-holding-usd"
+  },
+  {
+    "nombre": "Transferencias Ospecor",
+    "bg": "to bottom right, #a0a0a0, #424242",
+    "color": "white",
+    "icono": "exchange"
+  },
+  {
+    "nombre": "ACT Ospecor",
+    "bg": "to bottom right, #50b0ce, #002766",
+    "color": "white",
+    "icono": "heartbeat"
+  },
+  {
+    "nombre": "Integración Ospecor",
+    "bg": "to bottom right, #c365ab, #750058",
+    "color": "white",
+    "icono": "universal-access"
+  },
+  {
+    "nombre": "Contabilidad de Ingresos",
+    "bg": "to bottom right, #41b7c3, #170075",
+    "color": "white",
+    "icono": "abacus"
+  },
+  {
+    "nombre": "Sinpecor 5.0",
+    "bg": "to bottom right, #00c6fb, #005bea",
+    "color": "white",
+    "icono": "gas-pump"
+  },
+  {
+    "nombre": "Panel de Control",
+    "bg": "to bottom right, #6a94af, #157445",
+    "color": "white",
+    "icono": "solar-panel"
+  }
+]

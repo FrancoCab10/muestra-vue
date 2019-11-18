@@ -1,0 +1,13 @@
+.v-data-table thead {
+  background: $primary;
+  tr th {
+    color: white !important;
+  }
+}
+
+.theme--light.v-data-table .v-data-table-header th.sortable.active .v-data-table-header__icon {
+    color: rgba(255, 255, 255, 0.87) !important;
+}
+.theme--light.v-data-table .v-data-table-header th.sortable .v-data-table-header__icon {
+    color: rgba(255, 255, 255, 0.38) !important;
+}

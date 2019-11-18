@@ -1,0 +1,20 @@
+$primary: #1867c0;
+$secondary: #03A9F4;
+$accent: #00ebb0;
+$error: #FF5252;
+$info: #b83cff;
+$success: #4CAF50;
+$warning: #FFC107;
+
+
+
+@import 'components/animations';
+@import 'components/login';
+@import 'components/menu';
+@import 'components/data-tables';
+
+
+* {
+  font-family: 'Roboto', 'sans-serif';
+}
+
