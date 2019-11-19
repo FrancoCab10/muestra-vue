@@ -1,10 +1,10 @@
 <template>
   <div id="menu" v-if="loggeado">
-    <v-navigation-drawer v-model="primaryDrawer.model" app permanent clipped expandOnHover miniVariant miniVariantWidth="50" class="fondo-menu">
+    <v-navigation-drawer v-model="menuPrincipal" app permanent clipped expandOnHover miniVariant miniVariantWidth="50" class="fondo-menu">
       
       <ul class="navegacion">
 
-        <li class="item-navegacion" v-ripple v-for="(item, i) in menu" :key="i">
+        <li class="item-navegacion" v-ripple v-for="(item, i) in itemsMenu" :key="i">
           <router-link :to="item.to">
             <div class="icono"><i class="fas fa-fw" :class="item.icono"></i></div>
             <span class="texto">{{item.texto}}</span>
@@ -42,14 +42,8 @@
 export default {
   name: 'Menu',
   data: () => ({
-    primaryDrawer: {
-      model: null,
-      absolute: true,
-      clipped: false,
-      floating: true,
-      mini: false,
-    },
-    menu: [
+    menuPrincipal: null,
+    itemsMenu: [
       { type: 'link', texto: 'Home', icono: 'fa-home', to: '/home' },
       { type: 'link', texto: 'Usuarios', icono: 'fa-users', to: '/usuarios' },
     ],
